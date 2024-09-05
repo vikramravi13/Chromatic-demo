@@ -1,0 +1,19 @@
+storybook v8.2.9
+
+info => Cleaning outputDir: ..\..\..\..\AppData\Local\Temp\chromatic--19980-GFYTXMicMpn0
+info => Loading presets
+info => Building manager..
+WARN unable to find package.json for @chromatic-com/shared-e2e
+WARN unable to find package.json for @storybook/types
+info => Manager built (236 ms)
+info => Building preview..
+info Addon-docs: using MDX3
+info => Using implicit CSS loaders
+info => Using default Webpack5 setup
+info => Copying static files: test-results\chromatic-archives\archive at ..\..\..\..\AppData\Local\Temp\chromatic--19980-GFYTXMicMpn0
+WARN asset size limit: The following asset(s) exceed the recommended size limit (244 KiB).
+WARN This can impact web performance.
+WARN Assets: 
+WARN   92.ff7703e8.iframe.bundle.js (1.21 MiB)
+info => Preview built (9.08 s)
+info => Output directory: C:\Users\vikra\AppData\Local\Temp\chromatic--19980-GFYTXMicMpn0
